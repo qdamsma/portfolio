@@ -5,7 +5,7 @@ function HomePage() {
 
     return (
         <main>
-            <section>
+            <section className='start'>
                 <h1>Quinten Damsma Portfolio</h1>
             </section>
         </main>
